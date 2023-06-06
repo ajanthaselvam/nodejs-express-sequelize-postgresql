@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "ang01.cluster-cdgkfoacvf6u.us-east-1.rds.amazonaws.com",
+  HOST: "ang01-instance-1.cdgkfoacvf6u.us-east-1.rds.amazonaws.com",
   USER: "postgres",
   PASSWORD: "admin0408",
   DB: "ang01",
