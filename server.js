@@ -8,7 +8,7 @@ const app = express();
 
 
 var corsOptions = {
-  origin: "http://localhost:8081"
+  origin: "http://testangularstaticwebsite.s3.amazonaws.com"
 };
 
 app.use(cors(corsOptions));
